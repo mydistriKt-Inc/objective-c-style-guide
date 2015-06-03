@@ -463,3 +463,7 @@ Si le nôtre n'est pas à votre goût, consultez ces autres guides:
 * [CocoaDevCentral](http://cocoadevcentral.com/articles/000082.php)
 * [Luke Redpath](http://lukeredpath.co.uk/blog/2011/06/28/my-objective-c-style-guide/)
 * [Marcus Zarra](http://www.cimgf.com/zds-code-style-guide/)
+
+# Remerciements
+
+* [The New York Times](https://github.com/NYTimes/objective-c-style-guide)
