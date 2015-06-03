@@ -1,6 +1,6 @@
 # mydistriKt Inc. - Guide de Style Objective-C
 
-Ce guide décrit les conventions de codage des équipes iOS de mydistriKt Inc. . Nous vous remercions pour vos commentaires dans les [tickets](https://github.com/mydistriKt-Inc/objetive-c-style-guide/issues), [pull requests](https://github.com/mydistriKt-Inc/objetive-c-style-guide/pulls).
+Ce guide décrit les conventions de codage des équipes iOS de mydistriKt Inc. . Nous vous remercions pour vos commentaires dans les [tickets](https://github.com/mydistriKt-Inc/objective-c-style-guide/issues), [pull requests](https://github.com/mydistriKt-Inc/objective-c-style-guide/pulls).
 
 Merci à tous [nos contributeurs et contributrices](https://github.com/mydistriKt-Inc/objective-c-style-guide/contributors).
 
