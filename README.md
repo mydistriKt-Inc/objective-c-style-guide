@@ -1,6 +1,6 @@
 # mydistriKt Inc Objective-C Style Guide
 
-This style guide outlines the coding conventions of the iOS teams at mydistriKt Inc. . We welcome your feedback in [issues](https://github.com/mydistriKt-Inc/objetive-c-style-guide/issues), [pull requests](https://github.com/mydistriKt-Inc/objetive-c-style-guide/pulls).
+This style guide outlines the coding conventions of the iOS teams at mydistriKt Inc. . We welcome your feedback in [issues](https://github.com/mydistriKt-Inc/objective-c-style-guide/issues), [pull requests](https://github.com/mydistriKt-Inc/objective-c-style-guide/pulls).
 
 Thanks to all of [our contributors](https://github.com/mydistriKt-Inc/objective-c-style-guide/contributors).
 
